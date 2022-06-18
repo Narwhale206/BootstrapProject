@@ -6,9 +6,9 @@
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
-    "test": "echo \"Errnpm sr: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "JT",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"

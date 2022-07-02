@@ -4,7 +4,7 @@
   "description": "This is a website for the fictional campsites review site NuCamp.",
   "main": "index.html",
   "engines": {
-    "npm": "14.x"
+    "npm": "16.15.1"
   },
 
   
